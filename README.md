@@ -8,13 +8,14 @@ _/      _/  _/      _/  _/_/_/
 
 ```
 
-![](https://komarev.com/ghpvc/?username=nndvn&label=views&color=0e75b6&style=flat)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fdhs.vn)
+![Views](https://komarev.com/ghpvc/?username=nndvn&label=views&color=0e75b6&style=flat)
 
 ## NND
 
 > Ng̃ - **nndvn/nndvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fdhs.vn)](https://nnd.vn/)
+[![Website URL](https://img.shields.io/badge/nnd.vn-000000?style=flat-square&label=website)](https://nnd.vn)
 [![Email address](https://img.shields.io/badge/d@nnd.vn-000000?style=flat-square&label=email)](mailto:d@nnd.vn)
 [![PGP key](https://img.shields.io/badge/0x0000-000000?style=flat-square&label=pgp)](#)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
