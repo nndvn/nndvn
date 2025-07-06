@@ -1,6 +1,6 @@
-## NND
+## Ng̃
 
-> Ng Ng D
+> NND
 
 ### Hi there 👋
 
