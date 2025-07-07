@@ -13,7 +13,7 @@ _/      _/  _/      _/  _/_/_/
 
 ## NND
 
-> Ng̃ - **nndvn/nndvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **nndvn/nndvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Website URL](https://img.shields.io/badge/nnd.vn-000000?style=flat-square&label=https://)](https://nnd.vn)
 [![Email address](https://img.shields.io/badge/d@nnd.vn-000000?style=flat-square&label=mailto:)](mailto:d@nnd.vn)
