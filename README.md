@@ -18,16 +18,6 @@
 ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋
 ```
 
-```
-      ___             ______      ___          _______
-  ya$@@@@@@$gy_       $@@@@$  _y$@@@@@gy      g@@@@@@F
-_@@@@@@@@@@@@@@$y___ya@@@@@F  @@@@@@@@@@@    g@@@@@@F
-$@@@@@F~``~5@@@@@@@@@@@@@@F   @@@@@@@@@@@   g@@@@@@F
-@@@@@$       ~~A@@@@@@@@F`    `T@@@@@@P~   g@@@@@@F
-`````              ``              `       ```````
-
-```
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nndvn&color=green&style=for-the-badge&label=Profile+Views)
 ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fnnd.vn&up_message=UP&up_color=green&down_message=DOWN&down_color=red&style=for-the-badge&label=WEBSITE+STATUS)
 
